@@ -10,4 +10,7 @@
     <color name="light_blue">#E3F2FD</color>
     <color name="dark_text">#1A237E</color>
     <color name="gray_text">#757575</color>
+    <color name="mandiri_blue">#004b87</color>
+    <color name="mandiri_yellow">#FFB81C</color>
+    <color name="bg_light">#F5F7FA</color>
 </resources>
