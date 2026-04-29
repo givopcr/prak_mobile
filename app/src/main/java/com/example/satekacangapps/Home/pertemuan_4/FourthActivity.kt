@@ -1,4 +1,4 @@
-package com.example.satekacangapps.pertemuan_4
+package com.example.satekacangapps.Home.pertemuan_4
 
 import android.os.Bundle
 import android.util.Log

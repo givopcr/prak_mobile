@@ -1,4 +1,4 @@
-package com.example.satekacangapps.pertemuan_5
+package com.example.satekacangapps.Home.pertemuan_5
 
 import android.os.Bundle
 import android.view.MenuItem

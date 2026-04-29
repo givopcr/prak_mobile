@@ -1,4 +1,4 @@
-package com.example.satekacangapps.pertemuan_6
+package com.example.satekacangapps.Home.pertemuan_6
 
 import android.content.Intent
 import android.os.Bundle
